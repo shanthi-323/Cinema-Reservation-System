@@ -1,6 +1,3 @@
-//Student ID: 20055810
-//Name : Shanthi A/P Saravanan
-
 import java.util.concurrent.locks.ReentrantLock;  // Importing ReentrantLock for concurrency control
 import java.util.concurrent.ThreadLocalRandom;    // Importing ThreadLocalRandom for generating random numbers
 import java.util.concurrent.atomic.AtomicInteger; // Importing AtomicInteger for thread-safe integer operations
